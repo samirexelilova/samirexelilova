@@ -5,6 +5,7 @@
 💫 About Me:
 
 🌱 I'm currently learning backend development and improving my coding skills.
+
 📫 How to reach me xsamire2@gmail.com
 
 🌐 Socials:
