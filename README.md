@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samire-xelilova-b14040264/)
 
 💻 Tech Stack:
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%20Object%20Oriented-ff69b4?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,6 +28,7 @@
 
 
 📊 GitHub Stats:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samirexelilova&show_icons=true&theme=radical)
 
 
