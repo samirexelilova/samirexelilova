@@ -25,9 +25,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+
 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samirexelilova&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirexelilova&layout=compact&theme=radical)
 
 
