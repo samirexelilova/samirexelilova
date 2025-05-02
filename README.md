@@ -4,15 +4,14 @@
 
 💫 About Me:
 
-🌱 I'm currently learning backend development and improving my coding skills.
+🌱 I'm currently learning backend development and improving my coding skills. &nbsp; !📫 How to reach me xsamire2@gmail.com
 
-📫 How to reach me xsamire2@gmail.com
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samire-xelilova-b14040264/)
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%20Object%20Oriented-ff69b4?style=for-the-badge)
@@ -29,7 +28,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samirexelilova&show_icons=true&theme=radical)
 
